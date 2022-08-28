@@ -1,0 +1,138 @@
+---
+title: "K9 bites"
+author: "Ian Adams"
+date: "8/28/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(here)
+library(tidyverse)
+library(lubridate)
+
+```
+
+## Import
+
+```{r remedy001}
+
+load("ICPSR_38289/DS0001/38289-0001-Data.rda")
+
+df_big <- da38289.0001 %>% janitor::clean_names()
+
+df_big$date <- ymd(df_big$trdate)
+
+
+## Filter down to just legal intervention dog bites (i.e. police K9s)
+df <- df_big %>%
+  filter(intent_c == "(4) Legal interv", icause_c== "(16) Dog bite")
+
+df <- df %>%
+  select(nek,
+         date, 
+         sex,
+         ageyr_c,
+         raceth_c,
+         bdypt,
+         bdypt2,
+         diag,
+         diag2,
+         disp,
+         loc_c,
+         bdyptg_c,
+         stratum,
+         psu,
+         weight,
+         weighta
+         )
+
+## Recoding sex
+df$sex <- df$sex %>%
+  fct_recode(
+    "Unknown" = "(0) UNK",
+    "Male" = "(1) Male",
+    "Female" = "(2) Female"
+  )
+
+## Recoding race
+df$raceth_c <- df$raceth_c %>%
+  fct_recode(
+    "Unknown" = "(0) UNK",
+    "White Non-Hispanic" = "(1) White Nh",
+    "Black" = "(2) Black",
+    "Hispanic" = "(3) Hispanic",
+    "Asian" = "(4) Asian Nh",
+    "American Indian" = "(5) Am Ind Nh",
+    "Other" = "(6) Other Nh"
+  )
+
+## Recoding disposition
+df$disp <- df$disp %>%
+  fct_recode(
+    "Released" = "(1) Treated/released",
+    "Released" = "(2) Transfd/released",
+    "Hospitalized" = "(3) Transfd/hospital",
+    "Hospitalized" = "(4) Hospitalized",
+    "Released" = "(5) Observation",
+    "Released" = "(6) AMA/LWBS",
+    "Deceased" = "(8) DOA",
+    "Unknown" = "(9) UNK"
+  )
+
+## Recoding df$bdyptg_c into df$bdyptg_c_rec
+df$bdyptg_c <- df$bdyptg_c %>%
+  fct_recode(
+    "Unknown/Other" = "(0) UNK",
+    "Head/neck" = "(1) Head/neck",
+    "Upper trunk" = "(2) Upper trunk",
+    "Lower trunk" = "(3) Lower trunk",
+    "Arm/hand" = "(4) Arm/hand",
+    "Leg/foot" = "(5) Leg/foot",
+    "Unknown/Other" = "(6) Other"
+  )
+
+
+
+write_rds(df, file = "k9bites2019.rds")
+
+
+```
+
+
+## Descriptives Table
+
+```{r remedy002}
+
+library(gtsummary)
+library(forcats)
+
+reset_gtsummary_theme() # reset any theming
+theme_gtsummary_compact() # remove whitespace etc
+
+df_desc <- df %>% select(
+  sex, 
+  ageyr_c,
+  raceth_c,
+  disp,
+  bdyptg_c
+)
+
+df_desc <- droplevels(df_desc) ## drop unused factors in variables w/i dataframe
+
+## Basic table
+tbl1 <- tbl_summary(df_desc,
+                    label = list(
+                      sex ~ "Sex",
+                      ageyr_c ~ "Age (years)",
+                      raceth_c ~ "Race Ethnicity",
+                      disp ~ "Disposition",
+                      bdyptg_c ~ "Bite Location"
+                    )) %>% 
+  remove_row_type(type = "missing") %>%
+  italicize_labels()
+
+tbl1 %>% as_hux_table() %>% huxtable::quick_rtf(file = "hux_word_summary-table.rtf")
+
+```

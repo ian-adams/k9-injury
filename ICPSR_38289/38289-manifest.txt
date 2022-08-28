@@ -1,0 +1,54 @@
+File Manifest for ICPSR 38289
+
+United States Department of Health and Human Services. Centers for Disease
+Control and Prevention. National Center for Injury Prevention and Control,
+and U.S. Consumer Product Safety Commission. National Electronic Injury
+Surveillance System All Injury Program, 2019. ICPSR38289-v1. Ann Arbor, MI:
+Inter-university Consortium for Political and Social Research
+[distributor], 2021-12-15. http://doi.org/10.3886/ICPSR38289.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38289-descriptioncitation.pdf       -       -         -       2021-12-15  -
+
+    38289-related_literature.txt        -       -         -       daily       -
+
+    38289-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 National Electronic Injury Surveillance System All Injury Program,
+2019
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    38289-0001-Codebook.pdf             -       -         -       2021-12-15  68a4abdc12c8a57af2a6aa01f92940e1
+
+    38289-0001-Data.dta                 -       480,438   79      2021-12-15  6bff21ef1e7ec76c902015aff8ee729a
+
+    38289-0001-Data.rda                 -       480,438   79      2021-12-15  8c1adf540a1f74f0bfab2bd9fa4f3635
+
+    38289-0001-Data.sav                 -       480,438   79      2021-12-15  928a56bf8c9fbd2cafce30d882eef0cd
+
+    38289-0001-Data.stc                 -       480,438   79      2021-12-15  dbc0329d0d3670be32219b1deaf9902e
+
+    38289-0001-Data.tsv                 -       480,438   79      2021-12-15  b6d21b4d0561fc6a11f3019f26a5d8dd
+
+    38289-0001-Data.txt                 137     480,438   79      2021-12-15  eba4ca985061ec8ad1bd06db8e4d334e
+
+    38289-0001-Setup.dct                -       -         -       2021-12-15  2b768454308ecd571fc83a2c17f9f11e
+
+    38289-0001-Setup.do                 -       -         -       2021-12-15  0879a4ef7c88c18a094a4d02b46ed75f
+
+    38289-0001-Setup.sas                -       -         -       2021-12-15  e55ed48acc01f0ba0d5f85def38d1add
+
+    38289-0001-Setup.sps                -       -         -       2021-12-15  f95f5205d2651521d25b5abee1843012
+
+    38289-0001-Supplemental_syntax.do   -       -         -       2021-12-15  54e3983fc5ec4b1d36de1317441b5afa
+
+    38289-0001-Supplemental_syntax.sas  -       -         -       2021-12-15  61abef853a6144bd8470eacb7ef4972c
+

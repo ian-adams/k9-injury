@@ -1,0 +1,171 @@
+Bibliography
+National Electronic Injury Surveillance System (NEISS) Series
+
+This bibliography includes published and unpublished works that are
+related to ICPSR series 198. It includes works that are based on
+primary or secondary analysis of the data, or which describe or critique
+those data or the collection methodology. This list represents all items
+known to ICPSR as of 2019-05-21.
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR series used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Amanullah, Siraj; Heneghan, Julia A.; Steele, Dale W.; Mello, Michael
+J.; Linakis, James G., "Emergency department visits resulting from
+intentional injury in and out of school." Pediatrics. Feb 1, 2014, 133,
+(2), 254 - 261. DOI: 10.1542/peds.2013-2155
+
+2. Annest, Joseph L.; Mercy, James A., "Use of national data systems for
+firearm-related injury surveillance." American Journal of Preventive
+Medicine. Oct 1998, 15, (3S), 17 - 30. DOI: 10.1016/S0749-3797(98)00057-9
+
+3. Claassen, Cynthia A.; Trivedi, Madhukar H.; Shimizu, Iris; Stewart,
+Sunita; Larkin, Gregory Luke; Litovitz, Toby, "Epidemiology of nonfatal
+deliberate self-harm in the United States as described in three medical
+databases." Suicide and Life-Threatening Behavior. Apr 2006, 36, (2), 192 -
+212. DOI: 10.1521/suli.2006.36.2.192
+
+4. Cook, Philip J.; Ludwig, Jens, Gun Violence: The Real Costs. New York,
+NY: Oxford University Press, 2000.
+
+5. Corey, Catherine G.; Chang, Joanne T.; Rostron, Brian L., "Electronic
+nicotine delivery system (ENDS) battery-related burns presenting to US
+emergency departments, 2016." Injury Epidemiology. 2018, 5, (4),. DOI:
+10.1186/s40621-018-0135-1
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/29504085
+
+6. Decker, Lisa, "ATV Safety Fact Sheet." Updated Jun 19, 2009,.
+Full text: https://www.brainline.org/article/atv-safety-fact-sheet
+
+7. Dhaliwal, Jasmeet, "National estimates of noncanine bite and sting
+injuries treated in United States hospital emergency departments,
+2001–2010." Journal of Emergency Medicine. Jun 2014, 46, (6), 875. DOI:
+10.1016/j.jemermed.2014.04.004
+Full text: https://www.brainline.org/article/atv-safety-fact-sheet
+
+8. Fowler, Erica; Kobe, Christopher; Roberts, Kristin J.; Collins, Christy
+L.; McKenzie, Lara B., "Injuries associated with strollers and carriers
+among children in the United States, 1990 to 2010." Academic Pediatrics.
+Dec 2016, 16, (8), 726 - 733. DOI: 10.1016/j.acap.2016.07.002
+Full text: https://www.brainline.org/article/atv-safety-fact-sheet
+
+9. Fowler, Katherine A.; Dahlberg, Linda L.; Haileyesus, Tadesse;
+Gutierrez, Carmen; Bacon, Sarah, "Childhood firearm injuries in the United
+States." Pediatrics. Jul 2017, 140, (1),. DOI: 10.1542/peds.2016-3486
+Full text: https://www.brainline.org/article/atv-safety-fact-sheet
+
+10. Frye, Robert E., "The National Electronic Injury Surveillance System
+(NEISS) and Hazard Analysis." In Head and Neck Injuries in Sports. 47 - 56,
+American Society for Testing and Materials,1994. DOI: 10.1520/STP12803S
+Full text: https://www.brainline.org/article/atv-safety-fact-sheet
+
+11. Gaw, Christopher E.; Chounthirath, Thitphalak; Midgett, Jonathan;
+Quinlan, Kyran; Smith, Gary A., "Types of objects in the sleep environment
+associated with infant suffocation and strangulation." Academic Pediatrics.
+Nov-Dec 2017, 17, (8), 893 - 901. DOI: 10.1016/j.acap.2017.07.002
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+12. Guy, Gery P., Jr.; Watson, Meg; Haileyesus, Tadesse, "Problems
+assessing indoor tanning-related injuries - Reply." JAMA Internal Medicine.
+Sep 2015, 175, (9), 1584. DOI: 10.1001/jamainternmed.2015.3357
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+13. Hefflin, Brockton J.; Gross, Thomas P.; Schroeder, Thomas J., "The
+National Electronic Injury Surveillance System (NEISS) and medical
+devices." In Brown, S.L.; Bright, Roselie A.; Travis, Dale R., Medical
+Device Epidemiology and Surveillance. 79 - 86, West Sussex, England: John
+Wiley and Sons,2007.
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+14. Kalesan, Bindu; Adhikarla, Chandana; Pressley, Joyce C.; Fagan, Jeffrey
+A.; Xuan, Ziming;  Siegel, Michael B.;  Galea, Sandro, "The hidden epidemic
+of firearm injury: Increasing firearm injury rates during 2001–2013."
+American Journal of Epidemiology. Apr 1, 2017, 185, (7), 546 - 553. DOI:
+10.1093/aje/kww147
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+15. Kalesan, Bindu; Galea, Sandro; Fagan, Jeffrey A., "Three authors
+reply." American Journal of Epidemiology. Oct 2017, 186, (7), 897 - 898.
+DOI: 10.1093/aje/kwx280
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+16. Kohs, Gregory, "Problems assessing indoor tanning-related injuries."
+JAMA Internal Medicine. Sep 2015, 175, (9), 1583 - 1584. DOI:
+10.1001/jamainternmed.2015.3351
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+17. Kwart, Alexa T.; Kwart, Kara J.; Conaway, Mark R.; Diamond, Paul T.,
+"Comparative analysis of in-ground and above-ground swimming pool
+injuries." Presented at the 2013 American Academy of Physical Medicine and
+Rehabilitation Annual Assembly, American Academy of Physical Medicine and
+Rehabilitation, Washington, DC, Oct 3-6, 2013. DOI:
+10.1016/j.pmrj.2013.08.077
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+18. Loftin, Colin; Mercy, James A., "Estimating the incidence, causes, and
+consequences of interpersonal violence for children and families." In
+Integrating Federal Statistics on Children: Report of a Workshop. 192 -
+214, Washington, DC: National Academy Press,1995.
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+19. Mao, Shengyi J.; McKenzie, Lara B.; Xiang, Huiyun; Smith, Gary A.,
+"Injuries associated with bathtubs and showers among children in the United
+States." Pediatrics. Aug 2009, 124, (2), 541 - 547. DOI: 10.1542/peds.2008-
+2489
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+20. Marge, Dorothy K., "Feasibility of expanding NEISS-AIP to create a
+scientific database on violence and disability." Disability and Health
+Journal. Jul 2011, 4, (3), 153 - 164. DOI: 10.1016/j.dhjo.2010.09.003
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+21. McDonald, Art, "Expansion of the National Electronic Injury
+Surveillance System." International Journal of Injury Control and Safety
+Promotion. 2000, 7, (4), 267 - 269. DOI: 10.1076/icsp.7.4.267.7405
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/28723589
+
+22. Mercy, James A.; Powell, Kenneth E.; Annest, Joseph L.; Saltzman, Linda
+E.; Potter, Lloyd B. , "Overview and Examples of CDC's Violence
+Surveillance Activities." In Block, Carolyn; Block, Richard, Trends, Risks,
+and Interventions in Lethal Violence: Proceedings of the Third Annual
+Spring Symposium of the Homicide Research Working Group. Atlanta, Georgia.
+321 - 354, Washington, DC: United States Department of Justice, National
+Institute of Justice,1995. OJP-92-170-M
+Full text PDF: http://homicideworkinggroup.cos.ucf.edu/include/documents/hrwg94.pdf
+
+23. Miller, Brandon; Yelverton, Eden; Monico, Jesus; Replogle, William;
+Jordan, J. Randall, "Pediatric head and neck injuries due to golf cart
+trauma." International Journal of Pediatric Otorhinolaryngology. Sep 2016,
+88, 38 - 41. DOI: 10.1016/j.ijporl.2016.06.041
+Full text PDF: http://homicideworkinggroup.cos.ucf.edu/include/documents/hrwg94.pdf
+
+24. Pearson, Jane; Molock, Sherry; Warner, Margaret; Colpe, Lisa; Sherrill,
+Joel; Sims, Belinda, "Reducing mortality and morbidity from suicide: How
+can we get there?." PowerPoint presentation. Washington, DC: National
+Action Alliance for Suicide Prevention, Research Prioritization Task Force,
+2010..
+Full text PDF: http://actionallianceforsuicideprevention.org/system/files/SPR%20May%202012%20-%206-11-2012.pdf
+
+25. Sumner, Steven A.; Mercy, James A.; Dahlberg, Linda L., "Violence in
+the United States: Status, challenges, and opportunities." JAMA, The
+Journal of the American Medical Association. Aug 4, 2015, 314, (5), 478 -
+488. DOI: 10.1001/jama.2015.8371
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26241599
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692168/
+
+26. Vosbikian, Michael M.; Harper, Carl M.; Byers, Ashlyn; Gutman, Adva;
+Novack, Vitor; Iorio, Matthew L., "The impact of safety regulations on the
+incidence of upper-extremity power saw injuries in the United States."
+Journal of Hand Surgery. Apr 2017, 42, (4), 296. DOI:
+10.1016/j.jhsa.2017.01.025
+Abstract: https://www.ncbi.nlm.nih.gov/pubmed/26241599
+Full text: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4692168/
+
+27. White, Michelle; Schroeder, Thomas; Chen, Li Hui; Mah, Jean, "Privacy
+protection using Base SAS: Purging sensitive information from free text
+emergency room data." Presented at the 24th Annual Southeast SAS Users
+Group (SESUG) Conference, Southeast SAS Users Group, Bethesda, MD, Oct 16-
+18, 2016.
+Full text PDF: https://analytics.ncsu.edu/sesug/2016/EPO-188_Final_PDF.pdf

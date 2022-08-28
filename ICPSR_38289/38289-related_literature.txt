@@ -1,0 +1,667 @@
+Bibliography
+National Electronic Injury Surveillance System All Injury Program, 2019
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 38289. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Aizenberg, Adiel; Hogue, Kelly; Forrester, Mathias, "Nail polish
+exposures treated at emergency departments." Presented at the North
+American Congress of Clinical Toxicology 2021, American Academy of Clinical
+Toxicology, Atlanta, GA, Oct 16, 2021.
+
+2. Bloom, William R.; Bloom, Thomas D., "Epidemiology of eye injuries
+caused by personal protection devices and kinetic impact projectile
+weapons." JAMA Ophthalmology. Oct 29, 2020,. DOI:
+10.1001/jamaophthalmol.2020.4434
+
+3. Boden, Barry P.; Isaacs, David J.; Ahmed, Anwar E.; Anderson, Scott A.,
+"Epidemiology of exertional rhabdomyolysis in the United States: Analysis
+of NEISS database 2000 to 2019." Physician and Sportsmedicine. in press
+2021,. DOI: 10.1080/00913847.2021.1956288
+
+4. Boudiab, Elizabeth M.; Zaikos, Thomas D.; Issa, Christopher; Chaiyasate,
+Kongkrit; Lu, Stephen M., "Trends in craniofacial injuries associated with
+the introduction of electric scooter sharing services." FACE. Mar 2021, 2,
+(1), 89 - 93. DOI: 10.1177/2732501621992441
+
+5. Caswell, Shayne R.; Cash, Chad; Gratton, Andrew; Yon, James; Colosimo,
+Christina; Kubasiak, John; Mentzer, Caleb J., "Age-related injuries from
+escalators." American Surgeon. in press 2021,. DOI:
+10.1177/00031348211050826
+
+6. Click, Morgan; Velez, Larissa; Forrester, Mathias B., "Fidget spinner
+ingestions and other injuries treated at emergency departments." Presented
+at the North American Congress of Clinical Toxicology, American Academy of
+Clinical Toxicology, Atlanta, GA, Oct 18, 2021.
+
+7. Cohen, Lara L.; Geller, Joseph S.; Yang, Brian W.; Allegra, Paul R.;
+Dodds, Seth D., "Pediatric injuries related to electric scooter use: A
+national database review." Journal of Pediatric Orthopaedics: Part B. Mar
+2022, 31, (2), e241 - e245. DOI: 10.1097/BPB.0000000000000879
+
+8. Fang, Kevin, "Micromobility injury events: Motor vehicle crashes and
+other transportation systems factors." Transportation Research
+Interdisciplinary Perspectives. Jun 2022, 14,. DOI:
+10.1016/j.trip.2022.100574
+
+9. Farley, Kevin X.; Aizpuru, Matthew; Wilson, Jacob M.; Daly, Charles A.;
+Xerogeanes, John; Gottschalk, Michael B.; Wagner, Eric R., "Estimated
+incidence of electric scooter injuries in the US from 2014 to 2019." JAMA
+Network Open. 2020, 3, (8),. DOI: 10.1001/jamanetworkopen.2020.14500
+
+10. Farooqi, Ali S.; Lee, Alexander; Abreu, Eric; Talwar, Divya; Maguire,
+Kathleen J., "Epidemiology of pediatric baseball and softball player
+injuries." Orthopaedic Journal of Sports Medicine. Dec 2021, 9, (12),. DOI:
+10.1177/23259671211052585
+
+11. Farooqi, Ali; Talwar, Divya; Tata, Ravi; Harwood, Kathleen; Maguire,
+Kathleen, "Comparison of pediatric performance athlete injuries presenting
+to emergency departments." Physician and Sportsmedicine. in press 2021,.
+DOI: 10.1080/00913847.2021.1996863
+
+12. Flaherty, Michael R.; Buchmiller, Terry; Vangel, Mark; Lee, Lois K.,
+"Pediatric magnet ingestions after federal rule changes, 2009-2019." JAMA,
+The Journal of the American Medical Association. 2020, 324, (20), 2102 -
+2104. DOI: 10.1001/jama.2020.19153
+
+13. Forrester, Mathias B., "Beach and patio umbrella injuries treated at
+emergency departments." Journal of Safety Research. in press 2021,. DOI:
+10.1016/j.jsr.2021.09.010
+
+14. Forrester, Mathias B., "Characteristics of ocular nail glue exposures
+reported to the National Electronic Injury Surveillance System during 2000-
+2019." Clinical Toxicology. in press 2020,. DOI:
+10.1080/15563650.2020.1834115
+
+15. Forrester, Mathias B., "Cricket-related injuries treated in United
+States emergency departments." American Journal of Emergency Medicine. in
+press 2021,. DOI: 10.1016/j.ajem.2020.09.010
+
+16. Forrester, Mathias B., "Helium inhalation injuries managed at emergency
+departments." Clinical Toxicology. in press 2020,. DOI:
+10.1080/15563650.2020.1776871
+
+17. Forrester, Mathias B., "Nitrous oxide misuse reported to two United
+States data systems during 2000-2019." Journal of Addictive Diseases. 2020,
+39, (1), 46 - 53. DOI: 10.1080/10550887.2020.1813361
+
+18. Forrester, Mathias B., "Penis ring injuries treated at emergency
+departments." Journal of Sex and Marital Therapy. in press 2021,. DOI:
+10.1080/0092623X.2021.1900003
+
+19. Forrester, Mathias B., "Rodeo-related injuries among adolescents
+treated at emergency departments." Journal of Emergency Medicine. in press
+2021,. DOI: 10.1016/j.jemermed.2021.03.023
+
+20. Forrester, Mathias B., "Vibrator and dildo injuries treated at
+emergency departments." Journal of Sex and Marital Therapy. in press 2021,.
+DOI: 10.1080/0092623X.2021.1938319
+
+21. Forrester, Mathias B., "Water polo-related injuries among adolescents
+and young adults treated at emergency departments." International Journal
+of Adolescent Medicine and Health. in press 2020,. DOI: 10.1515/ijamh-2020-
+0118
+
+22. Frias, Pablo; Casanova, Alexander; Avila, Maximillian; Hinojosa, Maria;
+Varney, Shawn; Forrester, Mathias B., "Hand sanitizer exposures treated at
+emergency departments." Presented at the North American Congress of
+Clinical Toxicology 2021, American Academy of Clinical Toxicology, Atlanta,
+GA, Oct 18, 2021.
+
+23. George, Susanna S., "Emergency Medical Service EMR-Driven Concept
+Extraction from Narrative Text." Thesis, Purdue University, 2021.
+Full text PDF: https://scholarworks.iupui.edu/bitstream/handle/1805/26444/SusannaGeorgeThesis.pdf?sequence=1&isAllowed=y
+
+24. Gorucu, Serap; Ampatzidis, Yiannis, "Drone Injuries and Safety
+Recommendations." Publication AE560. Gainesville, FL: University of Florida
+Institute of Food and Agricultural Sciences Extension, Aug 5, 2021. DOI:
+10.32473/edis-ae560-2021
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+25. Gorucu, Serap; Michael, Judd; Chege, Kelly, "Nonfatal agricultural
+injuries treated in emergency departments: 2015-2019." Journal of
+Agromedicine. in press 2021,. DOI: 10.1080/1059924X.2021.1913271
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+26. Gotlieb, Rachael J.; Sorenson, Thomas J.; Borad, Vedant; Schubert,
+Warren, "Children in boxing and martial arts should be better guarded from
+facial injuries." Craniomaxillofacial Trauma and Reconstruction. in press
+2021,. DOI: 10.1177/19433875211016666
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+27. Gudeman, Andrew; Loder, Randall T.; Figueras, Jorge; Osterbur, Todd;
+Fitzgerald, Ryan, "Seasonal differences in emergency department visits for
+scooter associated injuries." Chronobiology International. in press 2021,.
+DOI: 10.1080/07420528.2021.1993239
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+28. Halawa, Omar; Mitchell, William; Zebardast, Nazlee, "Fall-related eye
+injury among older adults in the United States." American Journal of
+Ophthalmology. Sep 2021, 229, 82 - 89. DOI: 10.1016/j.ajo.2021.03.063
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+29. Haolan, Zheng; Campbell, Isabella M.; Giang, Wayne C.W., "Phone-related
+distracted walking injuries as a function of age and walking environment."
+Proceedings of the Human Factors and Ergonomics Society Annual Meeting. Sep
+2021, 65, (1), 611 - 615. DOI: 10.1177/1071181321651104
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+30. Helbing, Alexandra H.B.; Straughan, Alexander J.; Pasick, Luke J.;
+Benito, Daniel A.; Zapanta, Philip E., "I'm all ears: A population-based
+analysis of consumer product foreign bodies of the ear." Annals of Otology,
+Rhinology and Laryngology. in press 2021,. DOI: 10.1177/00034894211045638
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+31. Hinojosa, Maria; Varney, Shawn; Avila, Maximillian; Roth, Brett; Young,
+Amy; Forrester, Mathias, "Lightly irritating effects to chlorine
+exposures." Presented at the North American Congress of Clinical Toxicology
+2021, American Academy of Clinical Toxicology, Atlanta, GA, Oct 17, 2021.
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+32. Hinojosa, Maria; Varney, Shawn; Onisko, Nancy; Forrester, Mathias,
+"Itching rise in Toxicodendron radicans exposures." Presented at the North
+American Congress of Clinical Toxicology 2021, American Academy of Clinical
+Toxicology, Atlanta, GA, Oct 17, 2021.
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+33. Hoge, Connor; Pirruccio, Kevin; Cohen, Olivia G.; Kelly, John D., IV,
+"Rising trends in wrestling-associated injuries in females presenting to US
+emergency departments." Western Journal of Emergency Medicine. Mar 2021,
+22, (2), 410 - 416. DOI: 10.5811/westjem.2020.9.48490
+Full text: https://edis.ifas.ufl.edu/publication/AE560
+Full text PDF: https://edis.ifas.ufl.edu/pdf/AE/AE560/AE560-Ds88afgbqa.pdf
+
+34. Hoge, Connor; Sabbagh, Ramsey; Morgan, Malik; Grawe, Brian M.,
+"Epidemiology of youth and high school American football-related injuries
+presenting to United States emergency departments: 2010-2019." Physician
+and Sportsmedicine. in press 2021,. DOI: 10.1080/00913847.2021.1931980
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+35. Hogue, Kelly; Forrester, Mathias, "Changes in cleaning product-related
+injuries treated at emergency departments during the COVID-19 pandemic."
+Presented at the North American Congress of Clinical Toxicology 2021,
+American Academy of Clinical Toxicology, Atlanta, GA, Oct 16, 2021.
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+36. Huffman, William H.; Jia; Lori; Pirruccio, Kevin; Li, Xinning; Hecht,
+Andrew C.; Parisien, Robert L., "Acute vertebral fracture in skiing and
+snowboarding: A 20-year sex-specific analysis of national injury data."
+Orthopaedic Journal of Sports Medicine. Jul 2022, 10, (7),. DOI:
+10.1177/23259671221105486
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+37. Inyang, Naa A.; Chang, Joanne T.; Wang, Baoguang, "National estimates
+of hospital emergency department visits due to acute injuries associated
+with hookah smoking, United States, 2011-2019." Injury Epidemiology. 2020,
+7, (41),. DOI: 10.1186/s40621-020-00267-w
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+38. Kaplan, Nate; Kim, Minji; Slavin, Benjamin; Kaplan, Lee; Thaller, Seth
+R., "Baseball-related craniofacial injury among the youth: A National
+Electronic Injury Surveillance System database study." Journal of
+Craniofacial Surgery. in press 2021,. DOI: 10.1097/SCS.0000000000008404
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+39. Kaur, Gurbani; Ruan, Merry; Namiri, Nikan; Grob, Seanna; Vagefi, Reza,
+"Eye and orbit injuries caused by electric scooters and hoverboards in the
+United States, 2014-2019." Presented at the ARVO Annual Meeting 2021,
+Association for Research in Vision and Ophthamology, Jun 2021.
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+40. Khalighi, P.R;. Franks, E.W.; Schultz, C.; Muffly, T.M., "What got
+where? A population-based analysis of pelvic foreign bodies in women."
+Presented at the Society of Gynecologic Surgeons 47th Annual Scientific
+Meeting, Society of Gynecologic Surgeons, Palm Springs, CA, Jun 27-30,
+2021. DOI: 10.1016/j.ajog.2021.04.101
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+41. Khan, Abdullah; Brown, Lance, "Recreational drone-related injuries in
+children: A review of National Electronic Injury Surveillance System
+(NEISS) data." Cureus. Jun 2021, 13, (6),. DOI: 10.7759/cureus.15390
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+42. Kim, Minji; Moeller, Ellie; Thaller, Seth R., "Sports-related
+craniofacial injuries among pediatric and adolescent females: A National
+Electronic Injury Surveillance System database study." Journal of
+Craniofacial Surgery. Jun 2021, 32, (4), 1603 - 1606. DOI:
+10.1097/SCS.0000000000007586
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+43. LaGreca, Mark; Didzbalis, Christopher J.; Oleck, Nicholas C.;
+Weisberger, Joseph S.; Ayyala, Haripriya S., "Increasing incidence of hand
+and distal upper extremity injuries associated with electric scooter use."
+Journal of Hand Surgery. in press 2021,. DOI: 10.1016/j.jhsa.2021.05.021
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+44. Lazzara, Alan A., Jr.; Ditmer, Bailey I.; Doughty, Kyle W.; Reynolds,
+Kyle R., "Tree stand-related injuries in nonadmitted and admitted patients
+at a level 2 trauma center in Michigan: 2015-2019." Wilderness and
+Environmental Medicine. in press 2021,. DOI: 10.1016/j.wem.2021.08.006
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+45. Le, Tuan D.; Cook, Alan D.; Le, Tony T.; Keyloun, John W.; Detwiler,
+Paul W.; Ledlow, Gerald R.; Pusateri, Anthony E.; Singh, Karan P., "Trends
+in traumatic brain injury related to consumer products among U.S. school-
+aged children between 2000 and 2019." American Journal of Preventive
+Medicine. in press 2022,. DOI: 10.1016/j.amepre.2022.04.011
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+46. Lee, Alexander; Farooqi, Ali; Abreu, Eric; Talwar, Divya; Maguire,
+Kathleen, "Trends in pediatric baseball and softball injuries presenting to
+emergency departments." Physician and Sportsmedicine. in press 2022,. DOI:
+10.1080/00913847.2022.2040888
+Abstract: https://pubmed.ncbi.nlm.nih.gov/34029497/
+
+47. Lee, Alexander; Farooqi, Ali; Talwar, Divya; Maguire, Kathleen,
+"Pediatric softball injuries and mechanisms of injury." Presented at the
+AAP Council on Child Abuse and Neglect, Sep 15, 2021.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/213/185874/Pediatric-Softball-Injuries-and-Mechanisms-of
+
+48. Lee, Alexander; Farooqi, Ali; Talwar, Divya; Maguire, Kathleen J.,
+"Pediatric softball injuries presenting to emergency departments."
+Pediatric Emergency Care. in press 2022,. DOI: 10.1097/PEC.0000000000002754
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/213/185874/Pediatric-Softball-Injuries-and-Mechanisms-of
+
+49. Macknofsky, Brandon; Brown, Shimron; Lavin, Alessia; Sabesan, Vani,
+"Concussion rates in youth lacrosse." Presented at the AOSSM 2022 Annual
+Meeting Abstracts, American Orthopaedic Society for Sports Medicine,
+Colorado Springs, CO, Jul 2022. DOI: 10.1177/2325967121S00684
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/213/185874/Pediatric-Softball-Injuries-and-Mechanisms-of
+
+50. Makar, Gabriel S.; Davis, William; Suk, Michael; Bowen, Thomas R., "The
+accident environment resulting in fragility fractures: A 20-year national
+epidemiologic study." Journal of the AAOS. in press 2022,. DOI:
+10.5435/JAAOS-D-21-01169
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/213/185874/Pediatric-Softball-Injuries-and-Mechanisms-of
+
+51. Marchioli, Michael; Malige, Ajith; Wessner, Erica; Talwar, Divya;
+Gohel, Shivani; Ganley, Theodore J., "Nationwide injury trends due to
+motorized golf carts among the pediatric population: An observational study
+of the NEISS database from 2010-2019." Presented at the AAP Council on
+Child Abuse and Neglect, Sep 15, 2021.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+52. Menendez, Anelle; Abron, Donna; Forrester, Mathias B., "Significant
+irritant-related injury of borax-containing slime products managed in
+emergency departments." Presented at the North American Congress of
+Clinical Toxicology 2020, American Academy of Clinical Toxicology, Sep 10-
+14, 2020.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+53. Mohanty, Sarthak; Woodard, Thaddeus; Gupta, Sachin; Falk, David;
+Beschloss, Alex; Casper, David; Saifi, Comron, "Epidemiological trends
+associated with football-related spine injuries." Presented at the
+Proceedings of the 36th Annual Meeting of the North American Spine Society,
+Sep 29-Oct 2, 2021. DOI: 10.1016/j.spinee.2021.05.371
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+54. Moran, Jay; Cheng, Ryan; Schneble, Christopher A.; Mathew, Joshua I.;
+Kahan, Joseph B.; Li, Don; Gardner, Elizabeth C., "Epidemiology of sports-
+related traumatic hip dislocations reported in United States emergency
+departments, 2010-2019." Orthopaedic Journal of Sports Medicine. May 2022,
+10, (5),. DOI: 10.1177/23259671221088009
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+55. Nabavizadeh, Behnam; Namiri, Nikan K.; Hakam, Nizar; Li, Kevin D.;
+Amend, Gregory M., "Playground equipment-related genital injuries in
+children: An analysis of United States emergency department visits, 2010-
+2019." Urology. in press 2021,. DOI: 10.1016/j.urology.2021.03.012
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+56. Namiri, Nikan; Lee, Austin W.; Amend, Gregory M.; Vargo, Jason, Breyer,
+Benjamin N., "Impact of alcohol and drug use on bicycle and electric
+scooter injuries and hospital admissions in the United States." Trauma. in
+press 2021,. DOI: 10.1177/14604086211044353
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+57. Neuroth, Lucas M.; Humphries, Kayleigh D.; Wing, Jeffrey J.; Smith,
+Gary A.; Zhu, Motao, "Motor vehicle-related electric scooter injuries in
+the US: A descriptive analysis of NEISS data." American Journal of
+Emergency Medicine. in press 2022,. DOI: 10.1016/j.ajem.2022.02.004
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+58. Obana, Kyle K.; Mueller, John D.; Zhong, Jack R.; Saltzman, Bryan M.;
+Lynch, T.S.; Parisien, Robert L.; Ahmad, Christopher S.; Trofa, David P.,
+"Targeting rule implementation decreases neck injuries in high school
+football: A national injury surveillance study." Physician and
+Sportsmedicine. in press 2021,. DOI: 10.1080/00913847.2021.1932630
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+59. Patel, Arpan; Caceres-Munoz, Alba; Click, Morgan; Forrester, Mathias
+B., "Automatic dishwasher detergent pod exposures treated at emergency
+departments." Presented at the North American Congress of Clinical
+Toxicology 2021, American Academy of Clinical Toxicology, Atlanta, GA, Oct
+17, 2021.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+60. Patel, Parth A.; Gopali, Rhea; Reddy, Anvith; Patel, Kajol K., "Trends
+in soccer-related ocular injuries within the United States from 2010
+through 2019." Seminars in Ophthalmology. in press 2021,. DOI:
+10.1080/08820538.2021.1909077
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+61. Patel, Parth S.; Uppuluri, Aditya; Oyandich, Marko; Langer, Paul D.;
+Zarbin, Marco A.; Bhagat, Neelakshi, "Epidemiology of United States tennis-
+related ocular injuries from 2000-2019." International Ophthalmology. in
+press 2022,. DOI: 10.21203/rs.3.rs-1720963/v1
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+62. Patel, Parth; Uppuluri, Aditya; Zarbin, Marco; Bhagat, Neelakshi,
+"Epidemiology of pediatric school-associated ocular injuries from 2000 to
+2019." International Ophthalmology. in press 2021,. DOI: 10.1007/s10792-
+021-01901-2
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+63. Patel, Veshesh; Pakravan, Parastou; Mehra, Divy; Watane, Arjun;
+Yannuzzi, Nicolas A.; Sridhar, Jayanth, "Trends in sports-related ocular
+trauma in United States emergency departments from 2010 to 2019: Multi-
+center cross-sectional study." Seminars in Ophthalmology. in press 2022,.
+DOI: 10.1080/08820538.2022.2107400
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+64. Petty, Lizbeth; Forrester, Mathias, "Poison center contacts documented
+in the National Electronic Injury Surveillance System." Presented at the
+North American Congress of Clinical Toxicology 2021, American Academy of
+Clinical Toxicology, Atlanta, GA, Oct 18, 2021.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+65. Pierrot, Randall G.; Weber, Lee E.; Wolfe, Erin M.; Slavin, Benjamin
+R.; Eidelson, Sarah A.; Plotsker, Ethan; Mathew, Prakash; Thaller, Seth R.,
+"Skating on thin ice: Craniofacial injuries in amateur ice hockey." Journal
+of Craniofacial Surgery. Jun 2021, 32, (4), 1573 - 1576. DOI:
+10.1097/SCS.0000000000007584
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+66. Pirruccio, Kevin; Parisien, Robert L.; Kelly, John D., "Sports-related
+concussions in high school females: Epidemiologic analysis of twenty-year
+national trends." Research in Sports Medicine. in press 2021,. DOI:
+10.1080/15438627.2021.1954514
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+67. Pirruccio, Kevin; Shin, Max; Ganley, Theodore J.; Kelly, John D.;
+Parisien, Robert L., "Rock climbing confers distinct injury risk in
+pediatric versus adult populations: An analysis of twenty-year national
+trends." Physician and Sportsmedicine. in press 2021,. DOI:
+10.1080/00913847.2021.1932631
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+68. Plotsker, Ethan; Wolfe, Erin M.; Slavin, Benjamin R.; White, Nicholas;
+Cook, Jonathan; Panthaki, Zubin J., "A characterization of home maintenance
+equipment-related hand and lower arm injuries." Journal of Clinical
+Orthopaedics and Trauma. in press 2022,. DOI: 10.1016/j.jcot.2022.101943
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+69. Reeves, Patrick T.; Rudolph, Bryan; Nylund, Cade M., "Magnet ingestions
+in children presenting to emergency departments in the United States 2009-
+2019: A problem in flux." Journal of Pediatric Gastroenterology and
+Nutrition. Dec 2020, 71, (6), 699 - 703. DOI: 10.1097/MPG.0000000000002955
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+70. Richardson, Jordan; Stanbouly, Dani; Moynihan, Harrison; Reynolds,
+Renee M.; Recker, Matthew J.; Markiewicz, Michael R., "The most dangerous
+game: A review of head and neck injuries in American football and rugby."
+Craniomaxillofacial Trauma and Reconstruction. in press 2022,. DOI:
+10.1177/19433875211073437
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+71. Rossheim, Matthew E.; McDonald, Kayla K.; Soule, Eric K.; Gimm, Gilbert
+W.; Livingston, Melvin D.; Barnett, Tracey E.; Jernigan, David H.; Thombs,
+Dennis L., "Electronic cigarette explosion/burn and poisoning related
+emergency department visits, 2018-2019." American Journal of Emergency
+Medicine. Dec 2020, 38, (12), 2637 - 2640. DOI: 10.1016/j.ajem.2020.08.017
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+72. Roth, Brett; Hogue, Kelly; Forrester, Mathias, "Nail polish remover
+exposures treated at emergency departments." Presented at the North
+American Congress of Clinical Toxicology 2021, American Academy of Clinical
+Toxicology, Atlanta, GA, Oct 18, 2021.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+73. Sandler, Alexis B.; Scanaliato, John P.; Raiciulescu, Sorana; Nesti,
+Leon J.; Dunn, John C., "The epidemiology of hand and finger lacerations in
+the United States emergency departments." Journal of Emergency Medicine. in
+press 2022,. DOI: 10.1016/j.jemermed.2021.12.022
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+74. Singer, Omar; Uppuluri, Aditya; Zarbin, Marco A.; Bhagat, Neelakshi,
+"Pediatric ocular injury as a result of toy gun injury 2010-2019: An
+observational study." Presented at the ARVO Annual Meeting 2021,
+Association for Research in Vision and Ophthamology, Jun 2021.
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+75. Slavin, Benjamin R.; Pierrot, Randall G.; Sprau, Annelise C.; Wolfe,
+Erin M.; Mathew, Prakash J.; Chopra, Karan; Thaller, Seth R., "Heads up
+play: Acute assessment and management of basketball-related craniofacial
+injuries by on-court personnel." Journal of Craniofacial Surgery. Jun 2021,
+32, (4), 1580 - 1584. DOI: 10.1097/SCS.0000000000007588
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+76. Sorenson, Thomas J.; Borad, Vedant; Schubert, Warren, "A nationwide
+study of skiing and snowboarding-related facial trauma."
+Craniomaxillofacial Trauma and Reconstruction. in press 2021,. DOI:
+10.1177/1943387521997237
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+77. Sorenson, Thomas J.; Borad, Vedant; Schubert, Warren, "Facial injuries
+due to cycling are prevalent: Improved helmet design offering facial
+protection is recommended." Journal of Oral and Maxillofacial Surgery. in
+press 2021,. DOI: 10.1016/j.joms.2021.03.013
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+78. Sorenson, Thomas J.; Mohr, William J.; Mahajan, Ashish Y., "Pediatric
+hand burns requiring emergency care in the United States." Journal of Burn
+Care and Research. in press 2021,. DOI: 10.1093/jbcr/irab144
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+79. Sorenson, Thomas J.; Rich, Matthew D.; Deitermann, Annika; Gotlieb,
+Rachael; Garcia, Nicholas; Barta, Ruth J.; Schubert, Warren, "Likelihood of
+craniofacial injury and hospitalization with alcohol use while
+skateboarding and scootering." Craniomaxillofacial Trauma and
+Reconstruction. in press 2022,. DOI: 10.1177/19433875211069219
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+80. Sorenson, Thomas J.; Rich, Matthew D.; Lamba, Abhinav; Deitermann,
+Annika; Barta, Ruth J.; Schubert, Warren, "Recreational motorized vehicle
+use under the influence of alcohol or drugs significantly increases odds of
+craniofacial injury." Craniomaxillofacial Trauma and Reconstruction. in
+press 2021,. DOI: 10.1177/19433875211046721
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+81. Sorenson, Thomas J.; Rich, Matthew; Hagstrom, Michael; Lamba, Abhinav;
+Barta, Ruth J.; Schubert, Warren, "Alcohol and drug use while cycling
+significantly increases the likelihood of facial fractures." Journal of
+Craniofacial Surgery. in press 2021,. DOI: 10.1097/SCS.0000000000007792
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+82. Stanbouly, Dani; Baron, Michael; Chang, Julie; Chuang, Sung-Kiang;
+Turner, Michael D., "Geriatric craniomaxillofacial fractures: When do they
+happen and why?." Journal of Oral and Maxillofacial Surgery. in press
+2022,. DOI: 10.1016/j.joms.2022.07.138
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+83. Stanbouly, Dani; Besmer, Alexander; Chuang, Sung-Kiang, "Exploring the
+severity of craniomaxillofacial injuries from horseback riding." Journal of
+Craniofacial Surgery. Jan/Feb 2022, 33, (1), 62 - 65. DOI:
+10.1097/SCS.0000000000008004
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+84. Stanbouly, Dani; Murphy, Richard; Lee, Kevin C.; Halepas, Steve; Koch,
+Alia, "Handball-related head and neck trauma: An analysis of the 2000-2019
+National Electronic Injury Surveillance System (NEISS) database." Journal
+of Craniofacial Surgery. in press 2021,. DOI: 10.1097/SCS.0000000000007918
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+85. Stanbouly, Dani; Murphy, Richard; Murphy, Terence X.; McDoniell,
+Jeremy; Lee, Kevin C.; Chuang, Sung-Kiang, "Craniomaxillofacial injuries
+from the sport of wrestling: A query of the National Electronic Injury
+Surveillance System (NEISS)." Oral and Maxillofacial Surgery. in press
+2021,. DOI: 10.1007/s10006-021-01004-3
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+86. Stanbouly, Dani; Richardson, Jordan; Lee, Kevin C.; Zeng, Qingcong;
+Perrino, Michael A.; Chuang, Sung-Kiang, "A comparison of 2,845 head and
+neck injuries in various martial arts." Journal of Oral and Maxillofacial
+Surgery. in press 2022,. DOI: 10.1016/j.joms.2021.12.001
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+87. Stanbouly, Dani; Richardson, Jordan; Richardson, Natalee; Reynolds,
+Renee M.; Recker, Matthew J.; Bass, Kathryn; Chuang, Sung-Kiang, "Which
+sport is more dangerous: Ice hockey or field hockey? A review of the head
+and neck injuries associated with the two sports." Journal of Oral and
+Maxillofacial Surgery. in press 2022,. DOI: 10.1016/j.joms.2021.12.013
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+88. Stanbouly, Dani; Stanbouly, Rami; Lee, Kevin C.; Ferguson, Bridget, "Be
+careful where you aim: Craniomaxillofacial trauma from the utility of metal
+hammers." Oral and Maxillofacial Surgery. in press 2021,. DOI:
+10.1007/s10006-021-00998-0
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+89. Stanbouly, Dani; Takshyn, Alexander; Stanbouly, Rami; Ratliff, John;
+Giannakopoulos, Helen, "When disaster strikes in the ring: A 20-year study
+of head and neck injuries secondary to boxing." British Journal of Oral and
+Maxillofacial Surgery. in press 2021,. DOI: 10.1016/j.bjoms.2021.09.013
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+90. Straughan, Alexander J.; Pasick, Luke J.; Gupta, Vrinda; Benito, Daniel
+A.; Goodman, Joseph F.; Zapanta, Philip E., "Feel the burn! Fireworks-
+related otolayngologic trauma." Annals of Otology, Rhinology and
+Laryngology. in press 2021,. DOI: 10.1177/00034894211008100
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+91. Suneja, Nishant; Kong, Ryan M.; Tracey, Olivia C.; Mallon, Zachary;
+Tischler, Eric H., "Epidemiology of fragility pubic ramus fractures in the
+United States." Geriatric Orthopaedic Surgery and Rehabilitation. 2022,
+13,. DOI: 10.1177/21514593221097274
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+92. Tischler, Eric H.; Tsai, Sung Huang; Wolfert, Adam J.; Suneja, Nishant;
+Naziri, Qais; Tischler, Henry M., "Orthopedic fracture hospitalizations are
+revving up from e-scooter related injuries." Journal of Clinical
+Orthopaedics and Trauma. in press 2021,. DOI: 10.1016/j.jcot.2021.101607
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+93. Toofany, Manish; Mohsenian, Sasha; Shum, Leona K.; Chan, Herbert;
+Brubacher, Jeffrey R., "Injury patterns and circumstances associated with
+electric scooter collisions: A scoping review." Injury Prevention. 2021,
+27, 490 - 499. DOI: 10.1136/injuryprev-2020-044085
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+94. Traynor, Michael D., Jr.; Lipsitz, Stuart; Schroeder, Thomas J.;
+Zielinski, Martin D.; Rivera, Mariela; Hernandez, Matthew C.; Stephens,
+Daniel J., "Association of scooter-related injury and hospitalization with
+electronic scooter sharing systems in the United States." American Journal
+of Surgery. in press 2021,. DOI: 10.1016/j.amjsurg.2021.06.006
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+95. Twomey-Kozak, John; Whitlock, Keith G.; O'Donnell, Jeff A.; Anakwenze,
+Oke A.; Klifto, Christopher S., "Shoulder dislocations among high school-
+aged and college-aged athletes in the United States: An epidemiologic
+analysis." JSES International. in press 2021,. DOI:
+10.1016/j.jseint.2021.06.006
+Full text: https://publications.aap.org/pediatrics/article/149/1%20Meeting%20Abstracts%20February%202022/129/185771/Nationwide-Injury-Trends-Due-to-Motorized-Golf
+
+96. Uppuluri, Aditya; Patel, Parth S.; Uppuluri, Siri; Zarbin, Marco A.;
+Bhagat, Neelakshi, "Epidemiologic trends in consumer product-associated
+open globe injuries in patients 21 and over: An analysis of the National
+Electronic Injury Surveillance System." Presented at the ARVO Annual
+Meeting 2021, Association for Research in Vision and Ophthamology, Jun
+2021.
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2774703
+
+97. Uppuluri, Siri; Uppuluri, Aditya; Zarbin, Marco A.; Bhagat, Neelakshi,
+"Crib-related ocular injuries in children ages 0 to 23 months." Presented
+at the ARVO 2022 Annual Meeting, Association for Research in Vision and
+Ophthalmology, Denver, CO, May 1-4, 2022.
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+98. Uppuluri, Siri; Uppuluri, Aditya; Zarbin, Marco A.; Bhagat, Neelakshi,
+"Demographics of ocular injury in infants: An analysis of the NEISS
+database." Presented at the ARVO Annual Meeting 2021, Association for
+Research in Vision and Ophthamology, Jun 2021.
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+99. Vukcevich, Olivia; Schomberg, John; Wallace, Elizabeth L.; Reyna, Troy;
+Gholizadeh, Maryam; Ferguson, Makenzie; Guner, Yigit S.; Awan, Saeed,
+"Distribution of injury in inflatable jumping amusements in the U.S. over
+the last 20 years." Journal of Pediatric Surgery. in press 2022,. DOI:
+10.1016/j.jpedsurg.2021.12.054
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+100. Weiss, H.; Dougherty, J.; DiMaggio, C., "Non-fatal senior pickleball
+and tennis-related injuries treated in United States emergency departments,
+2010-2019." Injury Epidemiology. 2021, 8, (34),. DOI: 10.1186/s40621-021-
+00327-9
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+101. Wiener, R.C.; Waters, Christopher; Harper, Matthew; Shockey, Alcina
+K.; Bhandari, Ruchi, "All-terrain vehicle-related emergency department
+visits: Interaction of sex and age, NEISS, 2019." Journal of Emergency
+Medicine. in press 2022,. DOI: 10.1016/j.jemermed.2022.02.005
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+102. Wolfe, Erin M.; Pierrot, Randall; Slavin, Benjamin R.; Plotsker, Ethan
+L.; Samaha, Georges J.; Gishen, Kriya; Thaller, Seth R., "Rolling with the
+punches: A National Electronic Injury Surveillance System database study of
+craniofacial injuries in boxing." Journal of Craniofacial Surgery. Jun
+2021, 32, (4), 1576 - 1580. DOI: 10.1097/SCS.0000000000007640
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+103. Xu, Amy L.; Suresh, Krishna V.; Lee, R.J., "Progress in cheerleading
+safety: Update on the epidemiology of cheerleading injuries presenting to
+US emergency departments, 2010-2019." Orthopaedic Journal of Sports
+Medicine. 2021, 9, (10),. DOI: 10.1177/23259671211038895
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+104. Xu, Amy; Suresh, Krishna V.; Lee, R., "Progress in cheerleading: An
+update on the epidemiology of cheerleading-related injuries presenting to
+emergency departments in the U.S. (2010-2019) (105)." Orthopaedic Journal
+of Sports Medicine. Oct 2021, 9, (10_suppl5),. DOI:
+10.1177/2325967121S00255
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2781606
+
+105. Yan, John; Uppuluri, Aditya; Zarbin, Marco A.; Bhagat, Neelakshi,
+"Epidemiology of welding-associated ocular injuries." Presented at the ARVO
+Annual Meeting 2021, Association for Research in Vision and Ophthamology,
+Jun 2021.
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2773188
+
+106. Yang, Stephen C.; Johnson, Drake G.; Keefe, Susan H.; Bast, Brian T.,
+"Aquatic activity-related craniofacial injuries presenting to United States
+emergency departments, 2010-2019." Journal of Oral and Maxillofacial
+Surgery. in press 2021,. DOI: 10.1016/j.joms.2021.07.018
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2773188
+
+107. Yingst, Bradley; Reeves, Patrick T.; Krishnamurthy, Jayasree; Pasman,
+Eric A.; Nylund, Cade M., "Toilet injuries presenting to emergency
+departments, 2000-2019: A different game of thrones." Pediatric Emergency
+Care. Feb 2022, 38, (2), e906 - e909. DOI: 10.1097/PEC.0000000000002487
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2773188
+
+108. Yu, Alexander; Janney, Cory F.; Panchbhavi, Vinod K.; Jupiter, Daniel
+C., "National Electronic Injury Surveillance System sports-related arm
+fractures in the United States: Thrower's fractures." Journal of Sports
+Medicine and Physical Fitness. 2021,. DOI: 10.23736/S0022-4707.21.11675-5
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2773188
+
+109. Zheng, Haolan; Giang, Wayne, "Risk perception and distraction
+engagement with smart devices in different types of walking environments."
+Accident Analysis and Prevention. Nov 2021, 162,. DOI:
+10.1016/j.aap.2021.106405
+Abstract: https://iovs.arvojournals.org/article.aspx?articleid=2773188
